@@ -1,0 +1,2 @@
+
+From the model created here based on the datasets of the customers we can conclude that the company should focus more on their mobile app to make more profit, according to the coefficient results.   Therefore the project is successfully done.
